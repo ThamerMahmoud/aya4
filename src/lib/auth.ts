@@ -1,8 +1,26 @@
 import { betterAuth } from "better-auth";
 import { tanstackStartCookies } from "better-auth/tanstack-start";
 import { Pool } from "pg";
+// import { prismaAdapter } from 'better-auth/adapters/prisma'
+// import { PrismaClient } from '@prisma/client'
+
+// export const auth = betterAuth({
+//   database: new Pool({
+// 	        	// connection options
+// 	        	connectionString: "postgres://user:password@localhost:5432/database",
+
+//   emailAndPassword: {
+//     enabled: true,
+//   },
+//   plugins: [tanstackStartCookies()],
+// })
+// const prisma = new PrismaClient()
 
 export const auth = betterAuth({
+  //   database: prismaAdapter(prisma, {
+  //     provider: 'postgres',
+  //   }),
+
   database: new Pool({
     // connectionString: 'postgres://postgres:123456@localhost:5440/postgres',
     connectionString:
