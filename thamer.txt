@@ -1,0 +1,824 @@
+    9  ../UoR
+   35  ..
+   41  Euronext
+   55  \t..
+   71  ping yahoo.com
+   72  Desktop/Customer\ Data\ Script/UoR
+   74  ../POST
+   79  ../Euronext
+   81  ../IMDEA
+   83  ../UoR
+   87  ../IAG
+   90  ../IMDEA
+   92  ../Euronext
+   94  ../POST
+   96  ../POST
+  100  ../IAG
+  102  ../POST
+  104  ../UoR
+  106  ../IAG
+  110  ../A\ Inactive/Turk\ 
+  112  ../A\ Inactive/Turk\ Telekom
+  116  ../UvA
+  123  ..
+  124  UoR
+  130  ../Euronext
+  132  ../POST
+  138  ../POST
+  140  ../UoR
+  142  ping yahoo.com
+  143  ../A\ Inactive/Turk\ 
+  144  ../A\ Inactive/Turk\ Telekom/
+  154  ping yahoo.com
+  155  Desktop/Customer\ Data\ Script/POST
+  193  eex vc
+  233  \\gre
+  239  ping yahoo.com
+  240  ssh qctsl11.ultralab.juniper.net -p 7034
+  241  ping ultralab.jtac-SRX4200-r021
+  242  ping jtac-SRX4200-r021.ultralab.juniper.net
+  243  ssh jtac-SRX4200-r021.ultralab.juniper.net
+  244  ssh labroot@jtac-SRX4200-r021.ultralab.juniper.net
+  245  ping jtac-SRX4200-r021.ultralab.juniper.net
+  246  ping yahoo.com
+  247  ../A\ Inactive/UvA
+  254  ../Turk\ 
+  255  ../Turk\ Telekom
+  263  ping yahoo.com
+  267  ping yahoo.com
+  268  ping 192.168.100.1
+  282  ../POST
+  307  ..
+  309  j
+  321  ../IMDEA
+  334  ../Euronext
+  337  v 
+  361  ..
+  363  [A
+  372  show
+  373  ls
+  375  ls
+  382  ..
+  390  c
+  404  ..
+  422  ...
+  435  ../IMDEA
+  445  ls
+  446  ../po
+  447  ..
+  448  ,,,
+  449  ...
+  450  ../POST
+  460  ../UoR
+  468  q
+  471  ../POST
+  472  ../UoR
+  509  ../POST
+  518  ..
+  519  ,,
+  520  ..
+  527  ..
+  528  UvA
+  547  ls
+  557  tcpdump "src x.x.x dst\n\n\n\n\n
+  574  ../POST
+  580  ls
+  582  ..
+  594  ../IMDEA
+  603  ../UoR
+  612  ..
+  618  ..
+  621  ../POST
+  623  ../UoR
+  628  ../POST
+  634  ../IMDEA
+  639  ../IAG
+  643  ../
+  650  ../../IAG
+  654  ../A\ Inactive/UvA
+  656  ../
+  657  ..
+  662  ../Euronext
+  667  ../A\ Inactive/UvA
+  669  ../KBC
+  673  ls
+  675  ls
+  683  ..
+  689  ls
+  690  script
+  692  ls
+  693  ..
+  694  python3 parse2.py ../PC/Work/TSA/Customers/Imdea/Customer\ Data/Configuration/files\ after\ modification/v2/*
+  727  ../uor
+  728  ../UoR/
+  742  ping yahoo.com
+  748  ../IMDEA
+  761  ..
+  767  ../IAG
+  768  ../POST
+  778  ?
+  780  ../Euronext
+  784  ../UoR
+  786  ../POST
+  790  ../IMDEA
+  795  \t..
+  796  IMDEA
+  805  ll
+  806  ..
+  808  Turk\ Telekom
+  817  ping yahoo.com
+  822  ping yahoo.com
+  833  ls
+  856  ..
+  869  ping yahoo.com
+  870  ..
+  883  ..
+  886  ../IMDEA
+  888  ../UoR
+  890  ../IAG
+  893  ..
+  900  ing yahoo.com
+  901  ping yahoo.com
+  907  ..
+  912  ..
+  922  ..
+  948  ../POST
+  956  ../Euronext
+  959  ../POST
+  963  ../Euronext
+  966  ../POST
+  978  ..
+  988  ls
+  990  ls
+  994  ls
+  995  ..
+  996  c
+ 1005  ping yahoo.com
+ 1011  ..
+ 1020  ../
+ 1021  ..
+ 1025  ping yahoo.com
+ 1026  ../IMDEA
+ 1051  \t..
+ 1055  ../POST
+ 1062  ../IAG
+ 1065  ../POST
+ 1068  ls
+ 1071  ls
+ 1072  pwd
+ 1073  ..
+ 1074  ls
+ 1077  ..
+ 1084  ../
+ 1085  ..
+ 1088  ls
+ 1089  ..
+ 1090  ls
+ 1092  ls 
+ 1093  cat parse2.py
+ 1096  ../UoR
+ 1104  ../IAG
+ 1108  ../POST
+ 1110  ../IMDEA
+ 1121  ../Euronext
+ 1127  ls
+ 1128  open IMDEASOF-RT-JU-01-re0_chassis hardware detail.txt
+ 1129  open IMDEASOF-RT-JU-01-re0_chassis\ hardware\ detail.txt
+ 1130  ping yahoo.com
+ 1134  ping yahoo.com
+ 1137  ls
+ 1142  ../Euronext
+ 1155  ../IMDEA
+ 1159  ping yahoo.com
+ 1161  ls
+ 1162  mv L045-b01-edge-001-1775076204385.txt L045-b01-edge-001.txt
+ 1163  ..
+ 1165  ls
+ 1166  python3 parse2.py ../PC/Work/TSA/Customers/University\ of\ reading/Customer\ Data/Configuration/files\ after\ modification/v4/*
+ 1167  python3 parse2.py ../PC/Work/TSA/Customers/University\ of\ reading/Customer\ Data/Configuration/files\ after\ modification/v4/L033-b01a-edge-001.txt
+ 1168  python3 parse2.py ../PC/Work/TSA/Customers/University\ of\ reading/Customer\ Data/Configuration/files\ after\ modification/v4/New\ Folder\ With\ Items/*
+ 1169  python3 parse2.py ../PC/Work/TSA/Customers/University\ of\ reading/Customer\ Data/Configuration/files\ after\ modification/v4/*
+ 1175  ..
+ 1182  ls
+ 1184  ls
+ 1185  open W004-fw-hulk-001_configuration.txt
+ 1186  ..
+ 1190  ..
+ 1200  ls
+ 1205  ..
+ 1208  ..
+ 1214  \t..
+ 1236  ..
+ 1240  ../POST
+ 1242  ../Euronext
+ 1254  ls
+ 1255  ..
+ 1258  ls
+ 1260  ls
+ 1262  ls
+ 1266  ..
+ 1268  ..
+ 1269  ../Euronext
+ 1281  ../UoR
+ 1283  ../IMDEA
+ 1287  ls
+ 1300  ssh 10.32.192.46
+ 1301  ls
+ 1303  ls
+ 1304  ssh  sv8-pod4-vmm 
+ 1305  ls
+ 1306  exit
+ 1307  ssh 10.32.192.46
+ 1309  open /Users/tshohayeb/.ssh/known_hosts
+ 1310  ssh 10.32.192.46
+ 1316  ..
+ 1322  aux
+ 1352  ../POST
+ 1365  ../IMDEA
+ 1377  ../o
+ 1378  ../UoR
+ 1389  ..
+ 1392  ../ex4400-48p\ \(Virtual\ Chassis\)
+ 1393  ..
+ 1396  ..
+ 1398  ls
+ 1400  ls
+ 1403  ..
+ 1407  ping jtac-MX480-r208
+ 1408  ping jtac-MX480-r208.ultralab.com
+ 1409  ssh ttqc-shell001
+ 1410  ssh ttqc-shell01
+ 1411  ssh ttqc-shell001.ultralab.juniper.net
+ 1412  ping jtac-MX480-r208.ultralab.com
+ 1413  svn+ssh://svn@svl-svn.juniper.net/junos-2009
+ 1414  svn
+ 1415  ping jtac-MX480-r208.ultralab.com
+ 1416  ping yahoo.com
+ 1419  ping yahoo.com
+ 1420  trace yahoo.com
+ 1421  traceroute yahoo.com
+ 1422  ../IMDEA
+ 1432  ing yahoo.com
+ 1433  ping yahoo.com
+ 1438  ls
+ 1440  ls
+ 1442  ls
+ 1443  ..
+ 1446  ls
+ 1448  ls
+ 1451  ..
+ 1459  ..
+ 1467  ..
+ 1474  ../A\ Inactive/TAXUD
+ 1475  ping yahoo.com
+ 1476  ..
+ 1480  ping yahoo.com
+ 1482  ls
+ 1483  python3 parse2.py ../PC/Work/TSA/Customers/University\ of\ reading/Customer\ Data/Configuration/files\ after\ modification/v4/*
+ 1485  ls
+ 1487  ls
+ 1490  ..
+ 1497  ls
+ 1501  ls
+ 1503  ..
+ 1504  python3 parse2.py ../PC/Work/TSA/Customers/A\ Inactive/Turk\ Telecom/Customer\ Data/Configuration/files\ before\ modification/v4/Sample_Outputs_of_Network_Devices/all\ files/*
+ 1505  ..
+ 1515  ../IMDEA
+ 1517  ls
+ 1527  ..
+ 1540  ../POST
+ 1559  ../Euronext
+ 1567  ls
+ 1571  ..
+ 1574  \\\\n
+ 1607  ../IMDEA
+ 1614  ../POST
+ 1618  ../Euronext
+ 1620  ../POST
+ 1646  ..
+ 1651  ../I
+ 1652  ../IAG
+ 1666  ../UoR
+ 1685  ../Euronext
+ 1686  ../UoR
+ 1688  ../Euronext
+ 1694  ls
+ 1699  ls
+ 1701  ..
+ 1702  UoR
+ 1710  ls
+ 1716  ../im
+ 1717  ../../../IMDEA
+ 1721  ls
+ 1723  ls
+ 1725  ls
+ 1727  ls
+ 1729  ls
+ 1730  ..
+ 1734  ls
+ 1735  open CSIC-RT-JU-02-re0_configuration.txt
+ 1736  xcodebuild
+ 1737  ls
+ 1739  ls
+ 1743  ping yahoo.com
+ 1746  ..
+ 1753  l
+ 1754  ls
+ 1755  ..
+ 1757  ls
+ 1759  ls
+ 1763  ping yahoo.com
+ 1764  .
+ 1765  ..
+ 1769  ls
+ 1771  ls
+ 1773  ping yahoo.com
+ 1774  حصي
+ 1775  pwd
+ 1776  ../
+ 1777  ..
+ 1785  ]]]]
+ 1787  K-DC-F2-H1-R0-2AG52-U12-H-F-70.txt/qfx5120-48y-8c/UMK-DC-F2-H1-R0-2AG52-U12-H-F-70/UMK-DC-F2-H1-R0-2AG52-U12-H-F-70_chassis firmware.txt:7:                         Opticc
+ 1790  ls
+ 1792  ls
+ 1793  open UMK-DC-F2-H1-R0-2AD48-U7-A-C-54_version.txt
+ 1794  ..
+ 1798  ls
+ 1799  pwd
+ 1801  ..
+ 1809  ping yahoo.com
+ 1814  ..
+ 1817  Integrator  Ezzat  >> Amr
+ 1818  Integrator >>  Mahmoud Ezzat  >> Amr
+ 1819  ====
+ 1823  ls
+ 1825  ls
+ 1827  ls
+ 1828  ..
+ 1830  ls
+ 1834  ls
+ 1837  ..
+ 1838  post
+ 1840  ../POST
+ 1841  ls
+ 1843  ../Euronext
+ 1849  pnpm create next-app@latest my-app --yes\n
+ 1850  ls
+ 1851  ls Amr
+ 1852  ls
+ 1853  pwd
+ 1855  npx next --version
+ 1856  pnpm --version
+ 1857  pnpm next --version
+ 1858  pnpm list next
+ 1859  ls
+ 1860  pmpm create next-app@latest
+ 1861  pnpm create next-app@latest my-app --yes\n
+ 1862  pnpm -v
+ 1863  pnpm self-update\n
+ 1864  pnpm -v
+ 1865  lw
+ 1866  ls
+ 1868  ls
+ 1869  pnpm dev
+ 1870  pnpm dlx shadcn@latest init -t
+ 1871  pnpm dlx shadcn@latest init --preset [CODE] --template next
+ 1872  pnpm dlx shadcn@latest init -t next
+ 1873  pnpm dlx shadcn@4.7.0 init -t next
+ 1874  brew upgrade node
+ 1875  brew update
+ 1876  node -v
+ 1877  brew update
+ 1878  pnpm dlx shadcn@latest init -t next
+ 1879  pnpm dlx shadcn@4.7.0 init -t next
+ 1880  pnpm dlx shadcn@4.6.0 init -t next
+ 1881  pnpm dev
+ 1882  npx shadcn-ui@latest init
+ 1883  npx shadcn@latest init
+ 1884  ..
+ 1885  pnpm add -D @tanstack/eslint-plugin-query
+ 1886  npx @tanstack/cli@latest create
+ 1888  npm run dev
+ 1889  node -v
+ 1890  npm install node
+ 1891  npm run dev
+ 1892  npm i
+ 1893  node -v
+ 1894  node upgrade
+ 1895  node update
+ 1896  nvm install 24
+ 1897  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
+ 1898  \. "$HOME/.nvm/nvm.sh"
+ 1899  nvm install 24
+ 1900  node 0v
+ 1901  node -v
+ 1902  npm -v
+ 1904  npm run dev
+ 1905  ls
+ 1908  rmdir aya_site
+ 1909  rmdir -r aya_site
+ 1910  rmdir -r aya_sit
+ 1912  ls
+ 1914  mkdir tanstack
+ 1916  npx @tanstack/cli@latest create
+ 1917  ls
+ 1918  pnpm dev
+ 1919  pnpm dev run
+ 1920  pnpm dev
+ 1922  code
+ 1923  pnpm dlx shadcn@latest add card\n
+ 1924  ls
+ 1925  pnpm dlx shadcn@latest add card
+ 1926  npx shadcn@latest add card
+ 1927  npx shadcn@latest add card -c apps/web
+ 1928  npx  shadcn@latest add 
+ 1929  pnpx shadcn@latest -v
+ 1930  pnpx shadcn@latest add
+ 1931  pnpx shadcn@latest -v
+ 1932  npx  shadcn@latest add 
+ 1933  npx shadcn@4.7.0 add
+ 1934  brew 
+ 1935  brew list
+ 1936  pnpm dlx shadcn@latest add card
+ 1937  brew install dlx
+ 1938  pnpm shadcn -v
+ 1939  pnpm shadcn
+ 1940  pnpm shadcn@latest -v
+ 1941  pnpx shadcn@latest -v
+ 1942  npx shadcn -v
+ 1943  npx node -v
+ 1944  npx node update
+ 1945  npx npm-check-updates
+ 1946  npx npm-check-updates -u
+ 1947  npm install
+ 1948  npm install -g npm-check-updates
+ 1949  npx npm-check-updates
+ 1950  npm install
+ 1951  node -v
+ 1952  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
+ 1953  \. "$HOME/.nvm/nvm.sh"\n
+ 1954  nvm install 24
+ 1955  node -v 
+ 1956  corepack enable pnpm
+ 1957  pnpm -v
+ 1958  node -v
+ 1959  pnpm dlx shadcn@latest add card
+ 1960  pnpm dlx shadcn@latest add card -c apps/web
+ 1961  pmpm node -v
+ 1962  pnpm node -v
+ 1963  pnpx shadcn@latest -v
+ 1964  pnpm shadcn@latest -v
+ 1965  npx shadcn@latest add card\n
+ 1966  brew install node@24\n
+ 1967  npx shadcn@latest add card\n
+ 1968  pnpm dlx shadcn@latest add card\n\n
+ 1969  ls
+ 1970  npm list
+ 1971  ..
+ 1972  npm list
+ 1973  pnpm list
+ 1975  pnpm list
+ 1976  npm list
+ 1977  pnpm -list
+ 1978  pnpm list
+ 1979  pnpm install sh
+ 1981  npm list
+ 1982  ls
+ 1983  npm list 
+ 1984  npm list
+ 1985  npm run dev
+ 1986  npm run
+ 1988  ls
+ 1990  npx @tanstack/cli@latest create
+ 1991  pnpm dev
+ 1992  npm dev run
+ 1993  pnpm dev
+ 1994  /Users/tshohayeb/.nvm/versions/node/v24.16.0/bin/node /Users/tshohayeb/.cache/node/corepack/v1/pnpm/11.4.0/bin/pnpm.mjs install
+ 1995  ls
+ 1996  aya
+ 1997  ls
+ 1998  pnpm dev
+ 2000  ls
+ 2001  pnpm dev
+ 2002  pnpm approve-builds
+ 2003  pnpm dev
+ 2004  pnpm dlx shadcn@latest add card
+ 2005  npx shadcn@latest add card\n
+ 2006  npx shadcn@4.7.0 add card
+ 2007  npx shadcn@4.6.0 add card
+ 2008  npm list node-domexception
+ 2009  npx shadcn@latest add card\n
+ 2010  npx shadcn@latest add\n
+ 2011  npm config set strict-ssl true
+ 2012  npx shadcn@latest add\n
+ 2013  NODE_TLS_REJECT_UNAUTHORIZED=0 npx shadcn add card
+ 2014  npx shadcn@latest add\n
+ 2015  npx shadcn@latest add card\n
+ 2016  pnpm dev
+ 2017  pnpm install
+ 2018  pnpm dev
+ 2019  npm list node-domexception
+ 2020  npx @tanstack/cli@latest create
+ 2021  ls
+ 2022  npx @tanstack/cli@latest create
+ 2024  ls
+ 2025  pnpm dev\n
+ 2026  npm run build\n
+ 2027  ls
+ 2028  ..
+ 2029  ls
+ 2030  ..
+ 2031  npx @tanstack/cli@latest create
+ 2032  npm run dev
+ 2034  npm run dev
+ 2035  npm run build\n
+ 2036  npx @tanstack/cli@latest create
+ 2037  ..
+ 2039  npx @tanstack/cli@latest create
+ 2040  npm run dev
+ 2042  npm run dev
+ 2043  npx auth@latest migrate
+ 2044  pnpm dlx auth@latest migrate
+ 2045  npx auth@latest migrate
+ 2046  npx auth@latest generate\n
+ 2047  brew install postgresql@15
+ 2050  brew uninstall postgresql@15
+ 2053  pg_ctl
+ 2054  brew services list
+ 2057  _postgresql 
+ 2059  /Library/PostgreSQL/17/bin/postgres
+ 2060  l_psql\t
+ 2061  psql
+ 2062  /Library/PostgreSQL/17/bin/postgres -a
+ 2063  /Library/PostgreSQL/17/bin/postgres --help
+ 2064  postgres -D /usr/local/pgsql/data
+ 2065  /Library/PostgreSQL/17/bin/postgres /usr/local/pgsql/data
+ 2067  /Library/PostgreSQL/17/bin/postgres -D /Library/PostgreSQL/17/data
+ 2068  sudo /Library/PostgreSQL/17/bin/postgres -D /Library/PostgreSQL/17/data
+ 2069  ps auxwww
+ 2071  clear;"/Applications/Postgres.app/Contents/Versions/18/bin/psql" -p5440 -U "postgres" "postgres"
+ 2073  psql 
+ 2074  /Applications/Postgres.app/Contents/Versions/18/bin/psql -p5440 -U ?
+ 2075  /Applications/Postgres.app/Contents/Versions/18/bin/psql -p5440 -U postgres
+ 2077  ls
+ 2078  npm run dev
+ 2079  npm run db:generate
+ 2080  npm run dev
+ 2081  npm run db:studio
+ 2082  npm run dev
+ 2083  npm run db:migrate
+ 2084  npm run dev
+ 2085  npx @tanstack/cli@latest create
+ 2086  ..
+ 2087  npx @tanstack/cli@latest create
+ 2088  npx auth@latest migrate
+ 2089  npx auth@latest genrate
+ 2091  npx auth@latest generate
+ 2092  npx auth@latest better-auth_migrations
+ 2093  npx auth@latest migrate
+ 2094  clear;"/Applications/Postgres.app/Contents/Versions/18/bin/psql" -p5440 "postgres"
+ 2095  npx @tanstack/cli@latest create
+ 2096  npm dev
+ 2097  npm run format
+ 2098  npm dev
+ 2099  npm run dev
+ 2100  npx shadcn@latest add 
+ 2101  npx shadcn@latest add tables
+ 2102  npx shadcn@latest add table
+ 2103  npx shadcn@latest add table\n
+ 2104  npm run dev
+ 2105  npm install @tanstack/react-table\n
+ 2106  npm run dev
+ 2107  ..
+ 2108  npx @tanstack/cli@latest create
+ 2110  npm run dev
+ 2112  npx -y @better-auth/cli secret
+ 2113  npm run dev
+ 2114  npm run db:generate
+ 2115  npm run db:migrate
+ 2116  npm run db:generate
+ 2117  npm run db:migrate
+ 2118  npx auth@latest generate
+ 2119  npx auth@latest migration
+ 2120  npx auth@latest migrate
+ 2121  npx auth@latest generate
+ 2122  npx auth@latest migrate
+ 2123  npx auth@latest generate
+ 2124  npm run dev
+ 2125  npx shadcn@latest add card
+ 2126  npx shadcn@latest add table
+ 2127  npm run dev
+ 2128  npm install @better-auth/prisma-adapter\n
+ 2129  npm install @better-auth/prisma-adapter
+ 2130  npx auth@latest generate
+ 2131  npx auth@latest ?
+ 2132  npx auth@latest schema
+ 2133  npx auth@latest generate
+ 2134  npm run db:generate
+ 2135  npm run db:migrate
+ 2136  npm run db:studio
+ 2137  npm run dev
+ 2138  npx shadcn@latest add dropdown-menu
+ 2139  npm run dev
+ 2140  npx shadcn@latest add button
+ 2141  npm run dev
+ 2142  npm run db:migrate
+ 2143  npm run dev
+ 2144  npm run db:migrate
+ 2145  npm run db:push
+ 2146  prisma db push --force-reset
+ 2147  npm run db:push --force-reset
+ 2148  npm run db:studio
+ 2149  npm run db:push
+ 2150  npm run db:migrate
+ 2151  npm run dev
+ 2152  npm run db:generate
+ 2153  npm run db:migrate 
+ 2154  npm run db:generate
+ 2155  npm run db:studio
+ 2156  npm run db:generate
+ 2157  npm run db:migrate 
+ 2158  npm run db:push
+ 2159  npm run db:migrate 
+ 2160  npm run dev
+ 2161  npx shadcn@latest add language-selector
+ 2162  npx shadcn@latest add direction
+ 2163  npm run dev
+ 2174  ../Euronext
+ 2180  ../POST
+ 2182  ../
+ 2183  ..
+ 2184  ../Downloads
+ 2185  ls
+ 2187  ls
+ 2188  ..
+ 2190  ls
+ 2191  python3 parse2.py ../../Downloads/Config\ Q2_2026/*
+ 2201  netlify
+ 2203  ..
+ 2204  npx @tanstack/cli@latest create
+ 2206* npm list @tanstack/react-start
+ 2208  ls
+ 2209  cat vite.config.ts
+ 2210  ls
+ 2211  cat netlify.toml
+ 2212  mpn run build
+ 2213  vite build
+ 2214  npm run build
+ 2215  npm run dev
+ 2216* ls
+ 2217* cat .env.local
+ 2218  npm run db:migrate 
+ 2219  npm run db:generate
+ 2220  npm run db:migrate 
+ 2221  cat .env.local
+ 2222  npm run dev
+ 2223  npm run build
+ 2224  ls
+ 2226  ls
+ 2227  cat server.mjs
+ 2228  open server.mjs
+ 2229  ls
+ 2230  npx gitpick  
+ 2231  ls
+ 2232  ..
+ 2233  ls
+ 2234  echo "# ayatest" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/ThamerMahmoud/ayatest.git\ngit push -u origin main
+ 2235  get ini
+ 2236  git init
+ 2237  git add RADME.md
+ 2238  ls
+ 2239  git add README.md
+ 2240  git commit -m "ayatest"
+ 2241  git config
+ 2242  .git/config
+ 2243  cat .git/config
+ 2244  git --version
+ 2245  git config user.name
+ 2246  git config user.name ThamerMahmoud
+ 2247  git config user.name
+ 2248  git config --global user.email "thamer84@gmail.com
+ 2249  git config --global user.email "thamer84@gmail.com"
+ 2250  git config --global user.email
+ 2251  ls
+ 2252  .git
+ 2253  cat .git
+ 2254  git init
+ 2255  git config --global user.useConfigOnly
+ 2256  git commit -a
+ 2257  git commit -a -m "message"
+ 2258  git log
+ 2259  git commit
+ 2260  git status
+ 2261  touch asd.html
+ 2262  open asd.html
+ 2263  ls
+ 2264  pwd
+ 2265  ..
+ 2267  git commit
+ 2268  touch asd.html
+ 2269  git commit
+ 2270  git commit -a -m "asdf"
+ 2271  git add asd.html
+ 2272  git status
+ 2273  git add --all
+ 2274  git status
+ 2275  git commit -m "message"
+ 2276  git log
+ 2277  git branch -M main
+ 2278  git remote add origin https://github.com/ThamerMahmoud/ayatest.git
+ 2279  git push -u origin main
+ 2280  netlify
+ 2281  git commit -m "message"
+ 2282  git add src/routes/index.tsx src/
+ 2283  git push -u origin main
+ 2284  npm run dev
+ 2285  git commit -m "message"
+ 2286  git push -u origin main
+ 2287  git commit -m "message"
+ 2288  git push -u origin main
+ 2289  git commit -m "message"
+ 2290  git add src/routes/index.tsx s
+ 2291  git add src/routes/index.tsx
+ 2292  git commit -m "message"
+ 2293  git push -u origin main
+ 2294  ..
+ 2296  ls
+ 2297  git init
+ 2298  echo "# ayatest2" >> README.md
+ 2299  git add README.md
+ 2300  git commit -m "first commit"
+ 2301  git branch -M main
+ 2302  git remote add origin https://github.com/ThamerMahmoud/ayatest2.git
+ 2303  git push -u origin main\n
+ 2304  ls
+ 2305  git add 
+ 2306  git add .
+ 2307  git push -u origin main\n
+ 2308  git branch -M main
+ 2309  git push -u origin main\n
+ 2310  git -a -m messs
+ 2311  git commit -a -m asdf
+ 2312  git push -u origin main\n
+ 2313  git remote add origin https://github.com/ThamerMahmoud/ayatest2.git
+ 2314  ls
+ 2315  ..
+ 2316  ls\\n
+ 2318  npm run dev
+ 2319  git remote add origin https://github.com/ThamerMahmoud/ayatest2.git
+ 2320  git commit -a -m "message"
+ 2321  git push -u origin main
+ 2322  ls
+ 2323  cat vite.config.ts
+ 2324  ..
+ 2325  npx @tanstack/cli@latest create
+ 2327  git branch -M main
+ 2328  git commit -m "first commit"
+ 2329  git add .
+ 2330  git commit -m "first commit"
+ 2331  git branch -M main
+ 2332  git remote add origin https://github.com/ThamerMahmoud/aya4.git
+ 2333  git push -u origin main
+ 2334  npm run dev
+ 2335  npx auth@latest generate
+ 2336  npx auth@latest migrate
+ 2337  npm run dev
+ 2338  npm run db:generate
+ 2339  npm run db:migrate
+ 2340  npm run dev
+ 2342* ls
+ 2343* cat .env.local
+ 2344  npm run dev
+ 2345  git commit -a -m "message"
+ 2346  git push -u origin main
+ 2347  npm run db:migrate
+ 2348  git commit -a -m "message"
+ 2349  git push -u origin main
+ 2350  npm run dev
+ 2351  npm run db:generate
+ 2352  npx auth@latest generate
+ 2353  npx auth@latest migrate
+ 2354  npm run db:migrate
+ 2355  npm run db:push
+ 2356  npx auth@latest push
+ 2357  npx auth@latest generate
+ 2358  npx auth@latest migration
+ 2359  npx auth@latest migrate
+ 2360  npm run dev
+ 2361  git commit -a -m "message"
+ 2362  git push -u origin main
+ 2363  npx prisma generate
+ 2364  git commit -a -m "message"
+ 2365  git push -u origin main
+ 2366  git commit -a -m "message"
+ 2367  git push -u origin main
+ 2368  npm run build
+ 2369  git commit -a -m "message"
+ 2370  npm add .
+ 2371  git commit -a -m "message"
+ 2372  git push -u origin main
+ 2373  git commit -a -m "message"
+ 2374  git push -u origin main
+ 2375  npm run dev
+ 2376  history
+ 2377  history | more
